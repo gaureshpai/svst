@@ -1,5 +1,7 @@
 # Shree Venkataramana Swami Temple (SVS Temple) Bantwal - Official Website
 
+![Screenshot (530)](https://github.com/user-attachments/assets/c9dca17e-4857-4101-8d5d-59da94808aee)
+
 Welcome to the official repository for the **Shree Venkataramana Swami Temple (SVS Temple)** website. This project is dedicated to creating a digital presence for SVS Temple, Bantwal, providing information on temple history, festivals, events, and visitor details.
 
 ## 🚧 Website Under Construction 🚧
